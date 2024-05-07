@@ -1,5 +1,6 @@
 # Project Deployed Link [Researcher review system](https://researcher-review-system.netlify.app/)
-This Project is deployed using Netlify and Render.com
+This project aims to simplify the process of finding and reviewing research professors at leading universities and colleges. Many individuals struggle to identify the right professor under whom to conduct their research. Through this platform, users can anonymously share genuine reviews, helping others make informed decisions. The project utilizes React for frontend development, an Express server with MongoDB Atlas for backend and database functionality, and is deployed on Netlify and Render.com.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
